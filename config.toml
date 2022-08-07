@@ -51,15 +51,10 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params xommon for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  xing = "https://www.xing.com/profile/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
-
+  description = "If you want to get in touch with me or see that i post online, you can find me on these socials"
+  linkedin = "https://linkedin.com/in/omarjab"
+  github = "https://github.com/omarjab01"
+  medium = "https://medium.com/im_omarjab"
 [[menu.main]]
   name = "About"
   url = "/about"
